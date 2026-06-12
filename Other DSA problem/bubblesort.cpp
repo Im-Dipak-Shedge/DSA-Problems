@@ -55,6 +55,7 @@ int main() {
 int arr[]= {73,5,14,3,2,8};
 int l = sizeof(arr)/sizeof(arr[0]);
 int temp = 0;
+bool didswaped = false;
 
 for(int j = 0; j<l-1;j++)
 {
@@ -63,11 +64,16 @@ for(int i=0; i<l-j-1 ; i++)
 {
         if(arr[i]>arr[i+1])
         {
+            didswaped = true;
             temp = arr[i+1];
             arr[i+1] = arr[i];
             arr[i] = temp;
         }
 }
+  if(!didswaped)
+        {
+           break; 
+        }
 }
 
 cout <<"after sorting" << endl;
