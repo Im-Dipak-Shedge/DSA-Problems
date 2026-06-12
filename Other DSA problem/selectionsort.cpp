@@ -3,8 +3,8 @@
 using namespace std;
 int main() {
 
-int arr[]= {7,5,39,2,8};
-int l = 5;
+int arr[]= {7,5,1,3,39,2,8};
+int l = sizeof(arr)/sizeof(arr[0]);
 int temp = 0;
 
 
