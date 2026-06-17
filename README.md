@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
