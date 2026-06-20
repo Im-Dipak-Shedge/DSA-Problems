@@ -5,8 +5,9 @@ public:
         int maxArea = 0;
 
         while (l < r) {
-            int calc = min(height[l], height[r])* (r - l);
-            maxArea = max(calc, maxArea);
+            int h = min(height[l], height[r]);
+            int w = r - l;
+            maxArea = max((h * w), maxArea);
             if (height[l] < height[r]) {
                 l++;
             } else
