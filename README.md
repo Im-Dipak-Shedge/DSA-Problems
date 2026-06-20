@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
