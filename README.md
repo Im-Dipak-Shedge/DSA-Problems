@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Im-Dipak-Shedge/DSA-with-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Im-Dipak-Shedge/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
