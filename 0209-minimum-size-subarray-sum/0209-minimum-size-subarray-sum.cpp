@@ -11,7 +11,7 @@ public:
             minSize = min(minSize, right - left+1);
                 sum -= nums[left];
                 left++;
-                changed= true;
+                changed= true; //is nums.size()-1 changed or not
             }
         }
         if(changed) return minSize;
